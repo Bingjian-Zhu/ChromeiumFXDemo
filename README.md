@@ -15,4 +15,4 @@
 （2）解压文件，把Release文件夹重命名为cef，并复制到Winform项目中的\bin\Release\下
 
 
-（3）运行程序
+（3）以Release方式运行程序
